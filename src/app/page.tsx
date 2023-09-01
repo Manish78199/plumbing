@@ -4,7 +4,7 @@ import Link from "next/link"
 
 import HowTo from "./HowTo"
 import Service from "./Service"
-import NoOfWork from "./NOWork"
+import NoOfWork from "./NoWork"
 import WorlGal from "./Workgallery"
 import Testimonial from "./Testimonial"
 import Contact from "./Contact"
