@@ -13,7 +13,7 @@ const roboto = Rubik({
 // const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Plumbers Near Me | GreenLinePlumbing.com - a plumbing service company.',
+  title: 'Plumbers Near Me | GreenLinePlumbing.com ',
   description: 'all plumbing services like plumbing installation, fixtures, and repair at affordable cost with a free 1-year guarantee. GreenLinePlumbing.com',
   robots:'all'
 }
