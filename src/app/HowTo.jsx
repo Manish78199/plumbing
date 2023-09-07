@@ -26,7 +26,7 @@ export default function Howto(){
         </div>
       </div>
 
-      <div className="p-4 md:w-1/3 flex ">
+      <div className="p-4 md:w-1/3 flex  bg-white">
         <div className="w-12 h-12 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4 flex-shrink-0">
         {/*  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-6 h-6" viewBox="0 0 24 24">
             <circle cx="6" cy="6" r="3"></circle>
@@ -42,7 +42,7 @@ export default function Howto(){
         </div>
       </div>
       <div className="p-4 md:w-1/3 flex bg-blue-500">
-        <div className="w-12 h-12 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4 flex-shrink-0 bg-center bg-no-repeat bg-contain bg-[length:65px_65px] bg-[url('/img/howto/100.png')">
+        <div className="w-12 h-12 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4 flex-shrink-0 bg-center bg-no-repeat bg-contain  bg-[url('/img/howTo/100.png')]">
         
         </div>
         <div className="flex-grow pl-6">
