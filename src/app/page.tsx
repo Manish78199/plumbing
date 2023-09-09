@@ -16,7 +16,7 @@ export default function Home() {
       <section className="text-gray-600 body-font">
 
 
-        <div className="container mx-auto flex px-5  md:flex-row  flex-col items-center">
+        <div className="container mx-auto flex px-5  pb-3 md:mb-0 md:flex-row  flex-col items-center">
           <div className="lg:max-w-lg lg:w-full md:w-2/3 w-5/6 mb-10 md:mb-0">
             <Image className="object-contain object-center rounded"  src="/img/worker.png" width={450} height={540} alt="near me plumbers" />
           </div>
@@ -28,11 +28,11 @@ export default function Home() {
             </h1>
             <p className="mb-8 leading-relaxed">
               your trusted partner for top-notch plumbing solutions. we are giving  <span className="font-bold text-blue-700"> " free 1-year guarantee " </span>
-              for all our works. call now to grab the great opportunity.
+              for all our work. call now to grab this great opportunity.
             
             </p>
             <div className="flex justify-center items-center mt-4">
-              <Link className="inline-flex rounded-full text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-700 rounded text-lg" href="tel:7819953878">Get Now</Link>
+              <Link className="inline-flex rounded-full text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-700 rounded text-lg" href="tel:7310573878">Get Now</Link>
               {/*<button className="ml-4 inline-flex rounded-full text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Message</button>*/}
             </div>
           </div>
