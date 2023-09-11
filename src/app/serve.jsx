@@ -15,7 +15,7 @@ export default function Serve(){
 
                   <ul className=" text-black-1000 ms-6 text-base p-5 row-gap-8 list-image-[url(/img/dot.png)] ">
                       <li className="mt-2">Affordable cost</li>
- <li className="mt-3">Expert and experienced</li>
+ <li className="mt-3">Expert and experienced plumbers</li>
   <li className="mt-3">1056 + projects done</li>
 
  <li className="mt-3">Advance tools and technique</li>

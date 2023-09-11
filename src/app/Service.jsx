@@ -29,7 +29,7 @@ export default function Service (){
                  <h2 className="text-2xl mt-8 ">Plumbing repairing</h2>
                  <p className=" mt-3">
 
-               Experience hassle-free plumbing repairs with our skilled team, resolving issues promptly for a seamless home environment. Trust us for efficient solutions that stand the test of time.
+               Experience hassle-free plumbing repairs with our skilled plumbers team, resolving issues promptly for a seamless home environment. Trust us for efficient solutions that stand the test of time.
                  </p>
               </div>
             </div>

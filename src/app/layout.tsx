@@ -14,7 +14,7 @@ const roboto = Rubik({
 
 export const metadata: Metadata = {
   title: 'Plumbers Near Me | GreenLinePlumbing.com ',
-  description: 'all plumbing services like plumbing installation, fixtures, and repair at affordable cost with a free 1-year guarantee. GreenLinePlumbing.com',
+  description: 'all plumbing services like plumbing installation,plumbing fixtures, and plumbing repairing at affordable cost with a free 1-year guarantee. GreenLinePlumbing.com',
   robots:'all',
   alternates:{
     canonical:"https://www.greenlineplumbing.com"

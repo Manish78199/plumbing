@@ -22,7 +22,7 @@ export default function Testimonial(){
           Hotel owner
         </h6>
         <p class="mb-4">
-          Exceptional service! <b> GreenLinePlumbing </b> transformed my plumbing nightmares into stress-free solutions. Highly recommend.
+          Exceptional service! <b> Green Line Plumbing </b> transformed my plumbing nightmares into stress-free solutions. Highly recommend.
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96 960 960" class="inline-block w-6">
             <path fill="currentColor"
               d="M580 556h160V396H580v160Zm-360 0h160V396H220v160Zm406 220 80-160H520V336h280v288l-76 152h-98Zm-360 0 80-160H160V336h280v288l-76 152h-98Zm34-300Zm360 0Z" />
@@ -71,7 +71,7 @@ export default function Testimonial(){
           House owner
         </h6>
         <p class="mb-4">
-          Outstanding work from <b>GreenLinePlumbing</b>! Their plumbing expertise and professionalism saved the day.
+          Outstanding work from <b>Green Line Plumbing</b>! Their plumbing expertise and professionalism saved the day.
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96 960 960" class="inline-block w-6">
             <path fill="currentColor"
               d="M580 556h160V396H580v160Zm-360 0h160V396H220v160Zm406 220 80-160H520V336h280v288l-76 152h-98Zm-360 0 80-160H160V336h280v288l-76 152h-98Zm34-300Zm360 0Z" />
@@ -121,7 +121,7 @@ export default function Testimonial(){
            Resort owner
         </h6>
         <p class="mb-4">
-          Thanks to <b>GreenLinePlumbing</b>, our plumbing issues were resolved swiftly and efficiently, making our stay comfortable and worry-free
+          Thanks to <b>Green Line Plumbing</b>, our plumbing issues were resolved swiftly and efficiently, making our stay comfortable and worry-free
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96 960 960" class="inline-block w-6">
             <path fill="currentColor"
               d="M580 556h160V396H580v160Zm-360 0h160V396H220v160Zm406 220 80-160H520V336h280v288l-76 152h-98Zm-360 0 80-160H160V336h280v288l-76 152h-98Zm34-300Zm360 0Z" />

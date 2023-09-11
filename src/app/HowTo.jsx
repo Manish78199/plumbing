@@ -12,14 +12,14 @@ export default function Howto(){
      
 
       <div className="p-4 md:w-1/3 flex bg-yellow-500 ">
-        <div className="w-12 h-12 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4 flex-shrink-0">
+        <div className="w-12 h-12 inline-flex items-center justify-center rounded-full  text-indigo-500 mb-4 flex-shrink-0 bg-center bg-no-repeat bg-contain  bg-[url('/img/howTo/quality-plumber.png')]">
           {/*<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-6 h-6" viewBox="0 0 24 24">
             <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
           </svg>*/}
         </div>
         <div className="flex-grow pl-6">
-          <h2 className="text-gray-900 text-lg title-font font-medium mb-2">Quality work</h2>
-          <p className="leading-relaxed text-base text-white">
+          <h2 className="text-black text-lg title-font font-bold mb-2 ">Quality work</h2>
+          <p className="leading-relaxed text-base text-black">
           Experience superior quality work in every plumbing project we undertake, ensuring lasting reliability and satisfaction. Trust our skilled team for top-notch solutions that exceed your expectations.
          </p>
          
@@ -35,18 +35,18 @@ export default function Howto(){
           </svg>*/}
         </div>
         <div className="flex-grow pl-6">
-          <h2 className="text-gray-900 text-lg title-font font-medium mb-2">Skilled and experienced</h2>
-          <p className="leading-relaxed text-base ">
-         Benefit from our seasoned plumbing experts, bringing years of skill and experience to every project. Your plumbing needs are in capable hands for efficient and reliable solutions.
+          <h2 className="text-blue-700 text-lg title-font font-bold mb-2">Skilled and experienced</h2>
+          <p className="leading-relaxed text-base text-black">
+         Benefit from our expert plumbers, bringing years of skill and experience to every project. Your plumbing needs are in capable hands for efficient and reliable solutions.
         </p>
         </div>
       </div>
-      <div className="p-4 md:w-1/3 flex bg-blue-500">
-        <div className="w-12 h-12 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4 flex-shrink-0 bg-center bg-no-repeat bg-contain  bg-[url('/img/howTo/100.png')]">
+      <div className="p-4 md:w-1/3 flex bg-blue-900">
+        <div className="w-12 h-12 inline-flex items-center justify-center rounded-full  text-indigo-500 mb-4 flex-shrink-0 bg-center bg-no-repeat bg-contain  bg-[url('/img/howTo/100-plumbing-service.png')]">
         
         </div>
         <div className="flex-grow pl-6">
-          <h2 className="text-gray-900 text-lg title-font font-medium mb-2">100% satisfaction</h2>
+          <h2 className="text-yellow-500 text-lg title-font font-bold mb-2">100% satisfaction</h2>
           <p className="leading-relaxed text-base text-white">
           Achieve 100% satisfaction with our plumbing services, delivering results that surpass expectations. Trust us for a seamless and contented experience with your plumbing needs.
         </p>
