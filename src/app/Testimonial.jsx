@@ -15,9 +15,9 @@ export default function Testimonial(){
       <div class="mb-12 md:mb-0">
         <div class="mb-6 flex justify-center">
           <Image src="/img/testi/Plumbing-client1.jpg" width={200} height={200}
-            class="w-32 rounded-full shadow-lg dark:shadow-black/20" />
+            class="w-32 rounded-full shadow-lg dark:shadow-black/20" alt="plumbing  service client1"/>
                </div>
-        <h5 class="mb-2 text-lg font-bold">Jagdeep</h5>
+        <h3 class="mb-2 text-lg font-bold">Jagdeep</h3>
         <h6 class="mb-4 font-medium text-primary dark:text-primary-400">
           Hotel owner
         </h6>
@@ -64,9 +64,9 @@ export default function Testimonial(){
       <div class="mb-12 md:mb-0">
         <div class="mb-6 flex justify-center">
           <Image src="/img/testi/Plumbing-client2.jpg" width={200} height={200}
-            class="w-32 rounded-full shadow-lg dark:shadow-black/20" />     
+            class="w-32 rounded-full shadow-lg dark:shadow-black/20" alt="plumbing  service client2"/>     
                </div>
-        <h5 class="mb-2 text-lg font-bold">Aditya Sharma</h5>
+        <h3 class="mb-2 text-lg font-bold">Aditya Sharma</h3>
         <h6 class="mb-4 font-medium text-primary dark:text-primary-400">
           House owner
         </h6>
@@ -113,10 +113,10 @@ export default function Testimonial(){
       <div class="mb-0">
         <div class="mb-6 flex justify-center">
           <Image src="/img/testi/Plumbing-client3.jpg" width={200} height={200}
-            class="w-32 rounded-full shadow-lg dark:shadow-black/20" />
+            class="w-32 rounded-full shadow-lg dark:shadow-black/20" alt="plumbing  service client1"/>
 
         </div>
-        <h5 class="mb-2 text-lg font-bold">Ananya Mittal</h5>
+        <h3 class="mb-2 text-lg font-bold">Ananya Mittal</h3>
         <h6 class="mb-4 font-medium text-primary dark:text-primary-400">
            Resort owner
         </h6>

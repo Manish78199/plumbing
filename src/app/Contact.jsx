@@ -14,7 +14,7 @@ export default function Contact() {
             <div className="bg-white  p-5  rounded-md">
 
               <h2 className="text-2xl  ">Call us</h2>
-              <div className=" mt-3 flex items-center gap-x-1 content-center"><img src="/img/contact/call.png" width="25" height="25" /><a href="tel:+7310573878">73105 73878</a> </div>
+              <div className=" mt-3 flex items-center gap-x-1 content-center"><img src="/img/contact/call.png" width="25" height="25" alt="plumbing contact number"/><a href="tel:+7310573878">73105 73878</a> </div>
             </div>
           </div>
 
@@ -23,7 +23,7 @@ export default function Contact() {
             <div className="bg-white  p-5 rounded-md ">
 
               <h2 className="text-2xl  ">Message us</h2>
-              <div className=" mt-3 flex items-center gap-x-1 content-center"><img src="/img/contact/whatsapp.png" width="25" height="25" /> 73105 73878</div>
+              <div className=" mt-3 flex items-center gap-x-1 content-center"><img src="/img/contact/whatsapp.png" width="25" height="25" alt="plumbing contact message"/> 73105 73878</div>
 
             </div>
           </div>
@@ -34,7 +34,7 @@ export default function Contact() {
             <div className="bg-white  p-5 rounded-md ">
 
               <h2 className="text-2xl  ">Mail us</h2>
-              <div className=" mt-3 flex items-center gap-x-1 content-center break-all"><a href="mailto:+Contact.GreenLinePlumbing@gmail.com"><img src="/img/contact/email.png" width="25" height="25" /> Contact.GreenLinePlumbing@gmail.com</a> </div>
+              <div className=" mt-3 flex items-center gap-x-1 content-center break-all"><a href="mailto:+Contact.GreenLinePlumbing@gmail.com"><img src="/img/contact/email.png" width="25" height="25" alt="plumbing contact mail"/> Contact.GreenLinePlumbing@gmail.com</a> </div>
             </div>
           </div>
 
@@ -47,10 +47,10 @@ export default function Contact() {
 
           {/*<h2 className="text-2xl  ">Follow us on: </h2>*/}
           <div className=" mt-3 flex gap-x-4 items-center justify-center">
-            <img src="/img/contact/facebook.png" width="30" height="30" alt="facebook" />
-            <img src="/img/contact/whatsapp.png" width="30" height="30" alt="whatsapp" />
-            <img src="/img/contact/instagram.png" width="30" height="30" alt="instagram" />
-            <img src="/img/contact/google.png" width="30" height="30" alt="google" /> 
+            <img src="/img/contact/facebook.png" width="30" height="30" alt="plumbing contact facebook" />
+            <img src="/img/contact/whatsapp.png" width="30" height="30" alt="plumbing contact whatsapp" />
+            <img src="/img/contact/instagram.png" width="30" height="30" alt="plumbing contact instagram" />
+            <img src="/img/contact/google.png" width="30" height="30" alt="plumbing contact google" /> 
             </div>
         </div>
 

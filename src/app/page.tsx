@@ -13,15 +13,15 @@ import Serve from "./serve.jsx"
 export default function Home() {
   return (
     <>
-      <section className="text-gray-600 body-font">
+      <section className="text-gray-600 body-font" >
 
 
-        <div className="container mx-auto flex px-5  md:flex-row  flex-col items-center">
-          <div className="lg:max-w-lg lg:w-full md:w-2/3 w-5/6 mb-10 md:mb-0">
-            <Image className="object-contain object-center rounded" alt="hero" src="/img/worker.png" width={450} height={540} alt="near me plumbers" />
+        <div className="container mx-auto flex px-5 sm:pb-3 pb-0  md:flex-row  flex-col items-center">
+          <div className="lg:max-w-lg lg:w-full md:w-2/3 w-5/l mb-10 md:mb-0">
+            <Image className="object-contain object-center rounded"  src="/img/worker.png" width={450} height={540} alt="near me plumbers"  priority/>
           </div>
           <div className="lg:flex-grow md:w-1/3 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center  xm:pb-5">
-            <h1 className="title-font text-5xl md:text-6xl mb-4  font-bold text-sky-950">Professional <br />
+            <h1 className="title-font text-5xl md:text-6xl mb-4  font-bold text-sky-950">Professional <br className='none md:block'/>
               <span className="text-blue-500" >Plumbing</span > Service <br />
               + 1 Year <span className="text-blue-600">Guarantee</span>
               <span className="text-red-700"> free</span>
