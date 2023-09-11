@@ -35,7 +35,7 @@ export default function Howto(){
           </svg>*/}
         </div>
         <div className="flex-grow pl-6">
-          <h2 className="text-blue-700 text-lg title-font font-bold mb-2">Skilled and experienced</h2>
+          <h2 className="text-blue-700 text-lg title-font font-bold mb-2">Skilled and experienced plumbers</h2>
           <p className="leading-relaxed text-base text-black">
          Benefit from our expert plumbers, bringing years of skill and experience to every project. Your plumbing needs are in capable hands for efficient and reliable solutions.
         </p>

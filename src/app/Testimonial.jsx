@@ -18,9 +18,9 @@ export default function Testimonial(){
             class="w-32 rounded-full shadow-lg dark:shadow-black/20" alt="plumbing  service client1"/>
                </div>
         <h3 class="mb-2 text-lg font-bold">Jagdeep</h3>
-        <h6 class="mb-4 font-medium text-primary dark:text-primary-400">
+        <h4 class="mb-4 font-medium text-primary dark:text-primary-400">
           Hotel owner
-        </h6>
+        </h4>
         <p class="mb-4">
           Exceptional service! <b> Green Line Plumbing </b> transformed my plumbing nightmares into stress-free solutions. Highly recommend.
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96 960 960" class="inline-block w-6">
@@ -67,9 +67,9 @@ export default function Testimonial(){
             class="w-32 rounded-full shadow-lg dark:shadow-black/20" alt="plumbing  service client2"/>     
                </div>
         <h3 class="mb-2 text-lg font-bold">Aditya Sharma</h3>
-        <h6 class="mb-4 font-medium text-primary dark:text-primary-400">
+        <h4 class="mb-4 font-medium text-primary dark:text-primary-400">
           House owner
-        </h6>
+        </h4>
         <p class="mb-4">
           Outstanding work from <b>Green Line Plumbing</b>! Their plumbing expertise and professionalism saved the day.
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96 960 960" class="inline-block w-6">
@@ -117,9 +117,9 @@ export default function Testimonial(){
 
         </div>
         <h3 class="mb-2 text-lg font-bold">Ananya Mittal</h3>
-        <h6 class="mb-4 font-medium text-primary dark:text-primary-400">
+        <h4 class="mb-4 font-medium text-primary dark:text-primary-400">
            Resort owner
-        </h6>
+        </h4>
         <p class="mb-4">
           Thanks to <b>Green Line Plumbing</b>, our plumbing issues were resolved swiftly and efficiently, making our stay comfortable and worry-free
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 96 960 960" class="inline-block w-6">
